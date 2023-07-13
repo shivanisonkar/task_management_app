@@ -23,16 +23,16 @@ Delete a task.
 
 Run the following Commands 
 
-''' 
-npm install
-npm install react react-dom next
-'''
+```
+$ npm install
+$ npm install react react-dom next
+```
 
 Then run the app using
 
-'''
-npm run dev
-'''
+```
+$ npm run dev
+```
 
 ## Author
 This project was created by Shivani Sonkar.
