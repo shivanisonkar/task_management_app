@@ -8,8 +8,7 @@ This project is a task management application built with Next.js, TypeScript, Ta
 The objective of this project is to assess your skills and proficiency in the following technologies:
 Next.js
 TypeScript
-Tailwind CSS
-MST
+CSS
 Git
 
 ## User Interface
