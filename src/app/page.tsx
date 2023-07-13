@@ -8,6 +8,7 @@ const Page = () => {
     return (
       <main>
           <h2><RiTodoLine className="icons" /> TASK MANAGEMENT APP <RiTodoLine className="icons" /> </h2>
+          <h3>© Made with 💖 by Shivani Sonkar</h3>
           <Navbar />
           <AddTodo />
           <Todos />
