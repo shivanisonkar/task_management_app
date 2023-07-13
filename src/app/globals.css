@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300;400;500;700;900&family=Urbanist:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     /*font-family: 'Lexend Deca', sans-serif;*/
-    font-family: 'Urbanist', sans-serif;
+    font-family: 'Roboto';
 }
 
 nextjs-portal {
@@ -17,6 +18,7 @@ nextjs-portal {
 
 html{
     font-size: 62.5%;
+    background-color: lightgrey;
 }
 
 
@@ -43,6 +45,12 @@ main h2{
     margin-bottom: 4.8rem;
 }
 
+main h3{
+    font-size: 2rem;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-bottom: 4.8rem;
+}
+
 main h2 .icons{
     color: #bd04a4;
 }
@@ -57,16 +65,18 @@ nav{
     justify-content: space-between;
     align-items: center;
     border-bottom: .1rem solid #ccc;
+    font-family: "Roboto";
 }
 
 nav a{
     font-size: 2rem;
     font-family: 'Lexend Deca', sans-serif;
-    color: #ccc;
+    color: black;
     border-bottom: .3rem solid transparent;
 }
 
 nav a:hover{
+    color: #bd04a4;
     border-color: #3A3845;
 }
 
@@ -120,6 +130,7 @@ label{
     width:50rem;
     min-height: 6rem;
     border-bottom: .1rem solid #ccc;
+    background-color: white;
 }
 
 .main-task li:first-child{
