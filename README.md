@@ -1,7 +1,7 @@
 
 ## Task Management Application
 
-This project is a task management application built with Next.js, TypeScript, Tailwind CSS, MST, and Git.
+This project is a task management application built with Next.js, TypeScript, CSS, and Git.
 
 ## Objective
 
