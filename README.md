@@ -1,9 +1,9 @@
 
-##Task Management Application
+## Task Management Application
 
 This project is a task management application built with Next.js, TypeScript, Tailwind CSS, MST, and Git.
 
-##Objective
+## Objective
 
 The objective of this project is to assess your skills and proficiency in the following technologies:
 Next.js
@@ -12,7 +12,7 @@ Tailwind CSS
 MST
 Git
 
-##User Interface
+## User Interface
 
 The user interface allow users to perform the following actions:
 View a list of tasks.
@@ -23,15 +23,17 @@ Delete a task.
 
 Run the following Commands 
 
-bash'''
+''' 
 npm install
 npm install react react-dom next
 '''
+
 Then run the app using
-bash'''
+
+'''
 npm run dev
 '''
 
-##Author
+## Author
 This project was created by Shivani Sonkar.
 
